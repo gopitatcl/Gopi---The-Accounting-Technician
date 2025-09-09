@@ -1,0 +1,19 @@
+document.addEventListener("DOMContentLoaded", () => {
+  const root = document.getElementById("gopi-chatbot-root");
+  if (root) {
+    root.innerHTML = `
+      <button style="
+        padding: 12px 24px;
+        background: #2563eb;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 16px;
+        margin: 10px 0;
+      " onclick="alert('Chatbot coming soon! Call 778-548-3006 for immediate help.')">
+        💬 Chat with Gopi
+      </button>
+    `;
+  }
+});
