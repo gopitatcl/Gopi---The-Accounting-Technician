@@ -1,0 +1,784 @@
+
+<!doctype html>
+<html lang="en-CA">
+	<head>
+		<meta charset="UTF-8" />
+		<link rel="icon" type="image/svg+xml" href="/vite.svg" />
+		<meta name="generator" content="Hostinger Horizons" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		
+		<!-- SEO Meta Tags -->
+		<meta name="description" content="Expert bookkeeping, accounting, payroll, and tax services for Abbotsford small businesses and individuals. CPB Canada certified. CRA audit support Abbotsford, self-employed tax help BC." />
+		<meta name="keywords" content="Abbotsford accountant, bookkeeping Abbotsford, tax services Abbotsford, payroll Abbotsford, small business accounting BC, CRA audit support Abbotsford, self-employed tax help BC, corporate tax Abbotsford, personal tax Abbotsford" />
+		<title>Gopi Accountant | Bookkeeping & Tax Services in Abbotsford, BC</title>
+
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="https://gopiaccountant.com/" />
+		<meta property="og:title" content="Gopi Accountant | Bookkeeping & Tax Services in Abbotsford, BC" />
+		<meta property="og:description" content="Expert bookkeeping, accounting, payroll, and tax services for Abbotsford small businesses and individuals. CPB Canada certified. CRA audit support Abbotsford, self-employed tax help BC." />
+		<meta property="og:image" content="https://horizons-cdn.hostinger.com/c7cda46e-894d-4af5-a021-312566042496/cfa5d17d2d828e492c25d4c1885b23bd.png" />
+		
+		<!-- Twitter -->
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:url" content="https://gopiaccountant.com/" />
+		<meta name="twitter:title" content="Gopi Accountant | Bookkeeping & Tax Services in Abbotsford, BC" />
+		<meta name="twitter:description" content="Expert bookkeeping, accounting, payroll, and tax services for Abbotsford small businesses and individuals. CPB Canada certified. CRA audit support Abbotsford, self-employed tax help BC." />
+		<meta name="twitter:image" content="https://horizons-cdn.hostinger.com/c7cda46e-894d-4af5-a021-312566042496/cfa5d17d2d828e492c25d4c1885b23bd.png" />
+
+		<!-- Schema.org LocalBusiness -->
+		<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "AccountingService",
+      "name": "Gopi - The Accounting Technician Ltd.",
+      "image": "https://horizons-cdn.hostinger.com/c7cda46e-894d-4af5-a021-312566042496/cfa5d17d2d828e492c25d4c1885b23bd.png",
+      "@id": "https://gopiaccountant.com",
+      "url": "https://gopiaccountant.com",
+      "telephone": "+1-778-548-3006",
+      "email": "accounting@gopiaccountant.com",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Abbotsford",
+        "addressRegion": "BC",
+        "addressCountry": "CA"
+      },
+      "description": "Expert bookkeeping, accounting, payroll, and tax services for Abbotsford small businesses and individuals. CPB Canada certified.",
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Abbotsford"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Fraser Valley"
+        }
+      ],
+      "founder": {
+        "@type": "Person",
+        "name": "Gopinath Nayak"
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "sameAs": [
+        "https://www.facebook.com/p/Gopi-The-Accounting-Technician-61560312008221/"
+      ]
+    }
+    </script>
+		
+		<!-- Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'GA_MEASUREMENT_ID');
+		</script>
+		
+		<!-- Facebook Pixel -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', 'YOUR_PIXEL_ID');
+			fbq('track', 'PageView');
+		</script>
+		<script type="module" crossorigin src="/assets/index-1be1236d.js"></script>
+		<link rel="stylesheet" href="/assets/index-97276b80.css">
+		<script type="module">
+window.onerror = (message, source, lineno, colno, errorObj) => {
+	const errorDetails = errorObj ? JSON.stringify({
+		name: errorObj.name,
+		message: errorObj.message,
+		stack: errorObj.stack,
+		source,
+		lineno,
+		colno,
+	}) : null;
+
+	window.parent.postMessage({
+		type: 'horizons-runtime-error',
+		message,
+		error: errorDetails
+	}, '*');
+};
+</script>
+		<script type="module">
+const observer = new MutationObserver((mutations) => {
+	for (const mutation of mutations) {
+		for (const addedNode of mutation.addedNodes) {
+			if (
+				addedNode.nodeType === Node.ELEMENT_NODE &&
+				(
+					addedNode.tagName?.toLowerCase() === 'vite-error-overlay' ||
+					addedNode.classList?.contains('backdrop')
+				)
+			) {
+				handleViteOverlay(addedNode);
+			}
+		}
+	}
+});
+
+observer.observe(document.documentElement, {
+	childList: true,
+	subtree: true
+});
+
+function handleViteOverlay(node) {
+	if (!node.shadowRoot) {
+		return;
+	}
+
+	const backdrop = node.shadowRoot.querySelector('.backdrop');
+
+	if (backdrop) {
+		const overlayHtml = backdrop.outerHTML;
+		const parser = new DOMParser();
+		const doc = parser.parseFromString(overlayHtml, 'text/html');
+		const messageBodyElement = doc.querySelector('.message-body');
+		const fileElement = doc.querySelector('.file');
+		const messageText = messageBodyElement ? messageBodyElement.textContent.trim() : '';
+		const fileText = fileElement ? fileElement.textContent.trim() : '';
+		const error = messageText + (fileText ? ' File:' + fileText : '');
+
+		window.parent.postMessage({
+			type: 'horizons-vite-error',
+			error,
+		}, '*');
+	}
+}
+</script>
+		<script type="module">
+const originalConsoleError = console.error;
+console.error = function(...args) {
+	originalConsoleError.apply(console, args);
+
+	let errorString = '';
+
+	for (let i = 0; i < args.length; i++) {
+		const arg = args[i];
+		if (arg instanceof Error) {
+			errorString = arg.stack || `${arg.name}: ${arg.message}`;
+			break;
+		}
+	}
+
+	if (!errorString) {
+		errorString = args.map(arg => typeof arg === 'object' ? JSON.stringify(arg) : String(arg)).join(' ');
+	}
+
+	window.parent.postMessage({
+		type: 'horizons-console-error',
+		error: errorString
+	}, '*');
+};
+</script>
+		<script type="module">
+const originalFetch = window.fetch;
+
+window.fetch = function(...args) {
+	const url = args[0] instanceof Request ? args[0].url : args[0];
+
+	// Skip WebSocket URLs
+	if (url.startsWith('ws:') || url.startsWith('wss:')) {
+		return originalFetch.apply(this, args);
+	}
+
+	return originalFetch.apply(this, args)
+		.then(async response => {
+			const contentType = response.headers.get('Content-Type') || '';
+
+			// Exclude HTML document responses
+			const isDocumentResponse =
+				contentType.includes('text/html') ||
+				contentType.includes('application/xhtml+xml');
+
+			if (!response.ok && !isDocumentResponse) {
+					const responseClone = response.clone();
+					const errorFromRes = await responseClone.text();
+					const requestUrl = response.url;
+					console.error(`Fetch error from ${requestUrl}: ${errorFromRes}`);
+			}
+
+			return response;
+		})
+		.catch(error => {
+			if (!url.match(/.html?$/i)) {
+				console.error(error);
+			}
+
+			throw error;
+		});
+};
+</script>
+	</head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W4P49BRD45"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-W4P49BRD45');
+</script>
+	<body>
+		<noscript><img height="1" width="1" style="display:none"
+			src="https://www.facebook.com/tr?id=YOUR_PIXEL_ID&ev=PageView&noscript=1"
+		/></noscript>
+		<div id="root"></div>
+		
+
+    <!-- Gopi – The Accounting Technician Ltd Chatbot (Complete Integration) -->
+    <div id="gopi-chatbot-root"></div>
+    <style>
+      .gopi-chat-fab{position:fixed;right:20px;bottom:20px;background:#2563eb;color:#fff;width:56px;height:56px;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 10px 20px rgba(0,0,0,.2);cursor:pointer;z-index:999999; outline:none;border:none}
+      .gopi-chat-fab.gopi-pulse{animation:gopi-pulse 2s infinite}
+      .gopi-badge{position:absolute;top:-4px;right:-4px;background:#ef4444;color:#fff;font-size:10px;line-height:1;padding:4px 6px;border-radius:999px;box-shadow:0 2px 6px rgba(0,0,0,.2)}
+      @keyframes gopi-pulse {0%{box-shadow:0 0 0 0 rgba(37,99,235,.6)}70%{box-shadow:0 0 0 16px rgba(37,99,235,0)}100%{box-shadow:0 0 0 0 rgba(37,99,235,0)}}
+
+      .gopi-teaser{position:fixed;right:84px;bottom:28px;max-width:240px;background:#111827;color:#fff;padding:10px 12px;border-radius:12px;box-shadow:0 10px 20px rgba(0,0,0,.2);font-size:13px;z-index:999999;display:none}
+      .gopi-teaser:after{content:"";position:absolute;right:-6px;bottom:14px;border-width:6px;border-style:solid;border-color:transparent transparent transparent #111827}
+
+      .gopi-chat-wrap{position:fixed;right:20px;bottom:86px;width:360px;max-width:92vw;height:520px;background:#fff;border:1px solid #e5e7eb;border-radius:12px;box-shadow:0 20px 40px rgba(0,0,0,.2);display:none;flex-direction:column;overflow:hidden;z-index:999999;}
+      .gopi-chat-header{display:flex;align-items:center;justify-content:space-between;background:#2563eb;color:#fff;padding:10px 12px}
+      .gopi-chat-title{display:flex;align-items:center;gap:8px;font-weight:600;font-size:13px;line-height:1.2}
+      .gopi-chat-title img{width:28px;height:28px;border-radius:50%;background:#fff;border:1px solid rgba(255,255,255,.6);-o-object-fit:cover;object-fit:cover}
+      .gopi-chat-actions{display:flex;gap:8px}
+      .gopi-chat-btn{background:rgba(255,255,255,.18);color:#fff;border:1px solid rgba(255,255,255,.35);border-radius:8px;padding:6px 10px;font-size:12px;cursor:pointer}
+      .gopi-chat-close{background:transparent;border:none;color:#fff;cursor:pointer;font-size:16px}
+      .gopi-chat-body{flex:1;background:#f8fafc;padding:10px;overflow-y:auto}
+      .gopi-section{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:12px;margin-bottom:10px}
+      .gopi-menu{display:grid;grid-template-columns:1fr;gap:8px}
+      .gopi-menu button{display:flex;align-items:center;gap:8px;border:1px solid #e5e7eb;background:#f9fafb;border-radius:10px;padding:10px;text-align:left;cursor:pointer}
+      .gopi-menu button:hover{background:#eef2ff;border-color:#c7d2fe}
+      .gopi-kicker{font-size:12px;color:#6b7280;margin-top:6px}
+      .gopi-msg{max-width:100%;margin:8px 0;padding:10px 12px;border-radius:10px;font-size:14px;line-height:1.35}
+      .gopi-bot{background:#fff;border:1px solid #e5e7eb;color:#111827}
+      .gopi-user{background:#2563eb;color:#fff;margin-left:auto}
+      .gopi-typing{font-size:12px;color:#6b7280;margin:6px 0}
+      .gopi-chat-input{border-top:1px solid #e5e7eb;background:#fff;padding:8px}
+      .gopi-input-row{display:flex;gap:8px}
+      .gopi-input{flex:1;border:1px solid #d1d5db;border-radius:8px;padding:8px 10px;font-size:14px}
+      .gopi-send{background:#2563eb;color:#fff;border:none;border-radius:8px;padding:8px 12px;font-size:14px;cursor:pointer}
+      .gopi-fineprint{font-size:11px;color:#6b7280;margin-top:6px}
+      .gopi-list{margin:8px 0;padding-left:0;list-style:none}
+      .gopi-list li{margin:4px 0;padding-left:16px;position:relative;font-size:14px;line-height:1.4}
+      .gopi-list li:before{content:"•";color:#2563eb;font-weight:bold;position:absolute;left:0}
+      .gopi-sublist{margin:6px 0 0 16px;padding-left:0;list-style:none}
+      .gopi-sublist li{margin:3px 0;padding-left:16px;font-size:13px;color:#374151}
+      .gopi-sublist li:before{content:"◦";color:#6b7280}
+      .gopi-highlight{color:#2563eb;font-weight:600}
+      .gopi-cta{background:#f0f9ff;border:1px solid #bae6fd;border-radius:8px;padding:8px;margin:8px 0;font-size:13px;color:#0369a1}
+      .gopi-checklist-menu{display:grid;grid-template-columns:1fr;gap:6px;margin:8px 0}
+      .gopi-checklist-menu button{border:1px solid #d1d5db;background:#f9fafb;border-radius:8px;padding:8px 10px;text-align:left;cursor:pointer;font-size:13px}
+      .gopi-checklist-menu button:hover{background:#eef2ff;border-color:#c7d2fe}
+      @media (max-height:680px){.gopi-chat-wrap{height:74vh}}
+    </style>
+    <script>
+    (function(){
+      const root = document.getElementById('gopi-chatbot-root'); if(!root) return;
+
+      // Floating button with badge
+      const fab = document.createElement('button');
+      fab.className = 'gopi-chat-fab gopi-pulse'; fab.setAttribute('aria-label','Open chat'); fab.innerHTML = '💬';
+      const badge = document.createElement('span'); badge.className='gopi-badge'; badge.textContent='1';
+      fab.style.position='fixed'; fab.appendChild(badge);
+
+      // Teaser bubble
+      const teaser = document.createElement('div');
+      teaser.className='gopi-teaser';
+      teaser.textContent = 'Hi! Need help with deadlines or TFSA/RRSP/FHSA? Click here.';
+
+      // Chat window
+      const wrap = document.createElement('div'); wrap.className = 'gopi-chat-wrap';
+      const header = document.createElement('div'); header.className = 'gopi-chat-header';
+      header.innerHTML = `
+        <div class="gopi-chat-title">
+          <img src="https://horizons-cdn.hostinger.com/c7cda46e-894d-4af5-a021-312566042496/5d922173b8dedc5f1f1b9286b8905df3.png" alt="Gopi Logo">
+          <div>Gopi – The Accounting Technician Ltd, Abbotsford BC</div>
+        </div>
+        <div class="gopi-chat-actions">
+          <button class="gopi-chat-btn" id="gopi-menu-btn">Menu</button>
+          <button class="gopi-chat-close" title="Close">✕</button>
+        </div>
+      `;
+      const body = document.createElement('div'); body.className = 'gopi-chat-body';
+      const inputBar = document.createElement('div'); inputBar.className = 'gopi-chat-input';
+      inputBar.innerHTML = `
+        <div class="gopi-input-row">
+          <input class="gopi-input" type="text" placeholder="Type your question or pick an option..." />
+          <button class="gopi-send">Send</button>
+        </div>
+        <div class="gopi-fineprint">We use Canadian tax terminology. For personal advice, please book an appointment.</div>
+      `;
+      wrap.appendChild(header); wrap.appendChild(body); wrap.appendChild(inputBar);
+
+      root.appendChild(fab); root.appendChild(teaser); root.appendChild(wrap);
+
+      const input = inputBar.querySelector('.gopi-input');
+      const sendBtn = inputBar.querySelector('.gopi-send');
+      const closeBtn = header.querySelector('.gopi-chat-close');
+      const menuBtn = header.querySelector('#gopi-menu-btn');
+
+      // State
+      let isOpen = false, isTyping = false, expectingEmailForPDF = false;
+      let currentChecklistRequest = null;
+      let greetedThisSession = false;
+
+      // ** IMPORTANT: Replace with your actual Resend backend endpoint URL **
+      const RESEND_ENDPOINT_URL = 'YOUR_RESEND_ENDPOINT_URL';
+
+      // Greeting function
+      function greetOnce() {
+        if (greetedThisSession) return;
+        greetedThisSession = true;
+        addMsg('👋 Welcome to Gopi – The Accounting Technician Ltd (Abbotsford, BC). I can help with bookkeeping, tax filing, deadlines, checklists, benefits, and TFSA/FHSA/RRSP.', 'bot');
+        addMsg('Type "menu" anytime to see options, or ask me something like "calculate my corporate deadline" or "send me the personal tax checklist".', 'bot');
+      }
+
+      // Helpers
+      function openChat(){
+        isOpen = true; wrap.style.display='flex'; teaser.style.display='none';
+        fab.classList.remove('gopi-pulse'); badge.style.display='none';
+        input.focus(); body.scrollTop = body.scrollHeight;
+        localStorage.setItem('gopi_chat_seen', String(Date.now()));
+        greetOnce(); // Greet when chat opens
+      }
+      function closeChat(){
+        isOpen = false; wrap.style.display='none';
+        setTimeout(()=>{ if(!isOpen) showTeaser(); }, 6000);
+        setTimeout(()=>{ if(!isOpen) {fab.classList.add('gopi-pulse'); badge.style.display='inline-block';} }, 8000);
+      }
+      function showTeaser(){
+        teaser.style.display='block';
+        setTimeout(()=>{ teaser.style.display='none'; }, 6000);
+      }
+      function addMsg(text, sender='bot'){
+        const msg = document.createElement('div');
+        msg.className = 'gopi-msg ' + (sender==='user'?'gopi-user':'gopi-bot');
+        msg.textContent = text;
+        body.appendChild(msg);
+        body.scrollTop = body.scrollHeight;
+      }
+      function addHTMLMsg(html, sender='bot'){
+        const msg = document.createElement('div');
+        msg.className = 'gopi-msg ' + (sender==='user'?'gopi-user':'gopi-bot');
+        msg.innerHTML = html;
+        body.appendChild(msg);
+        body.scrollTop = body.scrollHeight;
+      }
+      function clearBody(){ body.innerHTML=''; }
+      function typing(on){
+        if(on && !isTyping){
+          isTyping = true;
+          const t = document.createElement('div'); t.className='gopi-typing'; t.textContent='Assistant is typing...'; t.id='gopi-typing';
+          body.appendChild(t); body.scrollTop = body.scrollHeight;
+        } else if(!on && isTyping){
+          const t = body.querySelector('#gopi-typing'); if(t) t.remove(); isTyping=false;
+        }
+      }
+      function section(title, contentEl){
+        const s = document.createElement('div'); s.className='gopi-section';
+        if(title){ const h = document.createElement('div'); h.style="font-weight:600;margin-bottom:8px;color:#1f2937"; h.textContent = title; s.appendChild(h); }
+        s.appendChild(contentEl); return s;
+      }
+
+      // Menu
+      function renderMenu(){
+        clearBody();
+        const menu = document.createElement('div'); menu.className='gopi-menu';
+        const items = [
+          {k:'bookkeeping', label:'1️⃣ Bookkeeping & Accounting Services'},
+          {k:'tax_filing', label:'2️⃣ Tax Filing Services (Personal, Self-employed, Corporate, Trust)'},
+          {k:'checklists', label:'3️⃣ Document Checklists'},
+          {k:'deadlines', label:'4️⃣ Tax Filing Deadlines & Calculator (T2, GST/HST)'},
+          {k:'benefits', label:'5️⃣ Government Benefits & Credits (GST, CCB, DTC, CAI, CWB)'},
+          {k:'savings', label:'6️⃣ TFSA, FHSA & RRSP Contribution Details'},
+          {k:'appointment', label:'7️⃣ Book an Appointment'},
+          {k:'contact', label:'8️⃣ Contact Gopi'}
+        ];
+        items.forEach(it=>{
+          const b = document.createElement('button'); b.textContent=it.label; b.dataset.key=it.k;
+          b.addEventListener('click', ()=>handleMenuSelect(it.k, it.label));
+          menu.appendChild(b);
+        });
+        const box = section('How can I help you today?', menu);
+        const kicker = document.createElement('div'); kicker.className='gopi-kicker';
+        kicker.textContent = 'Tip: Type a year-end like "Dec 31, 2024" to calculate corporate deadlines.';
+        body.appendChild(box); body.appendChild(kicker);
+      }
+
+      // Checklist submenu
+      function renderChecklistMenu(){
+        const checklistMenu = document.createElement('div');
+        checklistMenu.className = 'gopi-checklist-menu';
+        const checklists = [
+          {k:'personal', label:'📄 Personal Tax Checklist'},
+          {k:'business', label:'🏢 Business (Incorporated) Checklist'},
+          {k:'self_employed', label:'💼 Self-Employed Checklist'},
+          {k:'family_trust', label:'🏛️ Family Trust Checklist'},
+          {k:'non_profit', label:'🤝 Non-Profit Checklist'}
+        ];
+        checklists.forEach(it=>{
+          const b = document.createElement('button'); b.textContent=it.label; b.dataset.key=it.k;
+          b.addEventListener('click', ()=>{
+            addMsg(it.label,'user');
+            setTimeout(()=>askForEmailPDF(it.k), 300);
+          });
+          checklistMenu.appendChild(b);
+        });
+        addHTMLMsg('<div class="gopi-highlight">📑 Which checklist would you like?</div>','bot');
+        const msg = document.createElement('div');
+        msg.className = 'gopi-msg gopi-bot';
+        msg.appendChild(checklistMenu);
+        body.appendChild(msg);
+        body.scrollTop = body.scrollHeight;
+      }
+
+      // Date utils
+      function addMonthsSafe(date, months){ const d=new Date(date.getTime()); const day=d.getDate(); d.setMonth(d.getMonth()+months); while(d.getDate()<day){d.setDate(d.getDate()-1);} return d; }
+      function fmt(d){ return d.toLocaleDateString('en-CA',{year:'numeric',month:'short',day:'numeric'}); }
+      function parsePotentialDate(text){ const cleaned=text.replace(/(\d+)(st|nd|rd|th)/gi,'$1').replace(/,/g,''); const d=new Date(cleaned); return isNaN(d)?null:d; }
+      
+      function endOfMonth(dt) {
+        const d = new Date(dt.getTime());
+        d.setMonth(d.getMonth() + 1, 0);
+        return d;
+      }
+
+      function gstHstDueDate(periodEnd, frequency) {
+        const f = (frequency || '').toLowerCase();
+        if (f.includes('month')) {
+          return endOfMonth(addMonthsSafe(periodEnd, 1));
+        }
+        if (f.includes('quarter')) {
+          return endOfMonth(addMonthsSafe(periodEnd, 1));
+        }
+        return addMonthsSafe(periodEnd, 3);
+      }
+
+      function pstDueDate(periodEnd) {
+        return endOfMonth(addMonthsSafe(periodEnd, 1));
+      }
+
+      function corporateDeadlineReply(dateStr){
+        const d=parsePotentialDate(dateStr); if(!d) return null;
+        const filing=addMonthsSafe(d,6), payment2=addMonthsSafe(d,2), payment3=addMonthsSafe(d,3);
+        return `✅ Based on a year-end of ${fmt(d)}:
+📄 Corporate T2 Filing Deadline: ${fmt(filing)} (6 months after year-end)
+💰 Corporate Tax Payment Deadline: ${fmt(payment2)} (2 months after year-end, or ${fmt(payment3)} if eligible small business)
+⚠️ Late filing/paying may result in penalties and interest.`;
+      }
+
+      // Detailed info with HTML formatting
+      const detailedInfo = {
+        bookkeeping: `
+          <div class="gopi-highlight">📊 Bookkeeping & Accounting Services</div>
+          <ul class="gopi-list">
+            <li>Bookkeeping and GST/HST filings</li>
+            <li>Payroll & T4 preparation</li>
+            <li>Corporate tax (T2) & financial statements</li>
+            <li>Business registration & compliance</li>
+          </ul>
+          <div class="gopi-cta">👉 Would you like our bookkeeping services PDF by email?</div>
+        `,
+        tax_filing: `
+          <div class="gopi-highlight">🧾 Tax Filing Services</div>
+          <ul class="gopi-list">
+            <li>Personal Income Tax (T1)</li>
+            <li>Self-Employed Tax Filing</li>
+            <li>Corporate Tax (T2) & GST/HST Returns</li>
+            <li>Trust/Family Trust (T3)</li>
+            <li>Non-Profit Filings</li>
+          </ul>
+          <div class="gopi-cta">Which type do you need help with?</div>
+        `,
+        deadlines: `
+          <div class="gopi-highlight">⏱ Tax Filing Deadlines & Calculators</div>
+          <ul class="gopi-list">
+            <li><strong>Personal (T1):</strong> April 30</li>
+            <li><strong>Self-Employed (T1):</strong> File by June 15 (balance due April 30)</li>
+            <li><strong>T4/T5 Slips:</strong> Last day of February</li>
+            <li><strong>Corporate (T2):</strong> File within 6 months after year-end</li>
+            <li><strong>GST/HST (filing/payment):</strong>
+              <ul class="gopi-sublist">
+                <li>Monthly: due by the <em>last day</em> of the next month</li>
+                <li>Quarterly: due by the <em>last day</em> of the month after the quarter-end</li>
+                <li>Annual: due <em>3 months</em> after the period end</li>
+              </ul>
+            </li>
+            <li><strong>PST (BC):</strong> Due date is the <em>last day of the month after</em> your reporting period end (e.g., period ending Jul 31 → due Aug 31)</li>
+            <li><strong>Trust (T3):</strong> 90 days after year-end</li>
+          </ul>
+          <div class="gopi-cta">👉 Calculators:
+            <br/>• Corporate: type your year-end (e.g., "Dec 31, 2024")
+            <br/>• GST/HST: type "GST monthly period end Jul 31, 2025" (or quarterly/annual)
+            <br/>• PST: type "PST period end Jul 31, 2025"
+          </div>
+        `,
+        benefits: `
+          <div class="gopi-highlight">💰 Government Benefits & Credits</div>
+          <ul class="gopi-list">
+            <li>GST/HST Credit</li>
+            <li>Canada Child Benefit (CCB)</li>
+            <li>Disability Tax Credit (DTC)</li>
+            <li>Climate Action Incentive (CAI)</li>
+            <li>Canada Workers Benefit (CWB)</li>
+          </ul>
+          <div class="gopi-cta">👉 Eligibility depends on income, residency, and family situation. Book a review for personalized advice.</div>
+        `,
+        savings: `
+          <div class="gopi-highlight">📈 TFSA, FHSA & RRSP Contribution Details</div>
+          <ul class="gopi-list">
+            <li><strong>TFSA</strong>
+              <ul class="gopi-sublist">
+                <li>Room = unused + new annual limit – contributions</li>
+                <li>Withdrawals restore next year</li>
+                <li>Over-contrib penalty: 1%/month</li>
+              </ul>
+            </li>
+            <li><strong>FHSA</strong>
+              <ul class="gopi-sublist">
+                <li>Annual: $8,000 | Lifetime: $40,000</li>
+                <li>Over-contrib penalty: 1%/month</li>
+                <li>First-home withdrawals tax-free</li>
+              </ul>
+            </li>
+            <li><strong>RRSP</strong>
+              <ul class="gopi-sublist">
+                <li>Limit = 18% of prior-year income (max $31,560 in 2024) + unused room</li>
+                <li>Over-contrib > $2,000 → 1%/month penalty</li>
+              </ul>
+            </li>
+          </ul>
+          <div class="gopi-cta">👉 Ask about room calculations or request a PDF guide by email.</div>
+        `,
+        appointment: `
+          <div class="gopi-highlight">📅 Book an Appointment</div>
+          <ul class="gopi-list">
+            <li><strong>Website:</strong> gopiaccountant.com</li>
+            <li><strong>Phone:</strong> 778‑548‑3006</li>
+            <li>We'll confirm docs and next steps</li>
+          </ul>
+        `,
+        contact: `
+          <div class="gopi-highlight">📞 Contact Information</div>
+          <ul class="gopi-list">
+            <li><strong>Business:</strong> Gopi – The Accounting Technician Ltd, Abbotsford, BC</li>
+            <li><strong>Phone:</strong> 778‑548‑3006</li>
+            <li><strong>Email:</strong> accounting@gopiaccountant.com</li>
+            <li><strong>Website:</strong> gopiaccountant.com</li>
+          </ul>
+        `
+      };
+
+      // Lead capture
+      function askForEmailPDF(checklistType){
+        const typeNames = {
+          personal: 'Personal Tax Checklist',
+          business: 'Business Incorporated Checklist',
+          self_employed: 'Self-Employed Checklist',
+          family_trust: 'Family Trust Checklist',
+          non_profit: 'Non-Profit Checklist',
+          bookkeeping: 'Bookkeeping Services PDF',
+          savings: 'TFSA/FHSA/RRSP Guide'
+        };
+        const displayName = typeNames[checklistType] || checklistType;
+        addMsg(`📂 I can email you the ${displayName} from Gopi – The Accounting Technician Ltd, Abbotsford BC. Please provide your email address.`,'bot');
+        expectingEmailForPDF = true;
+        currentChecklistRequest = checklistType;
+      }
+
+      // Function to send email via Resend backend
+      async function sendChecklistEmail(email, checklistType) {
+        if (!RESEND_ENDPOINT_URL || RESEND_ENDPOINT_URL === 'YOUR_RESEND_ENDPOINT_URL') {
+          console.error("RESEND_ENDPOINT_URL is not configured. Cannot send email.");
+          addMsg("⚠️ Email service not configured. Please contact us directly at 778-548-3006 to get your PDF.","bot");
+          return;
+        }
+
+        try {
+          const response = await fetch(RESEND_ENDPOINT_URL, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              type: 'checklist',
+              email: email,
+              checklistType: checklistType
+            })
+          });
+
+          if (response.ok) {
+            const typeNames = {
+              personal: 'Personal Tax Checklist',
+              business: 'Business Incorporated Checklist',
+              self_employed: 'Self-Employed Checklist',
+              family_trust: 'Family Trust Checklist',
+              non_profit: 'Non-Profit Checklist',
+              bookkeeping: 'Bookkeeping Services PDF',
+              savings: 'TFSA/FHSA/RRSP Guide'
+            };
+            const displayName = typeNames[checklistType] || checklistType;
+            addMsg(`✅ Thanks! Your ${displayName} has been emailed from accounting@gopiaccountant.com. Please check your inbox (and spam folder).`, 'bot');
+            addMsg(`📞 Questions? Call us at 778-548-3006 or visit gopiaccountant.com`, 'bot');
+          } else {
+            addMsg("⚠️ Oops, something went wrong sending the email. Please call us at 778‑548‑3006 to get your PDF.","bot");
+          }
+        } catch (error) {
+          console.error("Error sending email via Resend endpoint:", error);
+          addMsg("⚠️ An error occurred. Please call us at 778‑548‑3006 to get your PDF.","bot");
+        }
+      }
+
+      function handleMenuSelect(key, label){
+        addMsg(label,'user');
+        setTimeout(()=>{
+          if(key==='checklists'){ 
+            renderChecklistMenu(); 
+            return; 
+          }
+          
+          addHTMLMsg(detailedInfo[key],'bot');
+          
+          // Trigger PDF email capture for relevant items
+          if(key==='bookkeeping'){ 
+            setTimeout(()=>askForEmailPDF('bookkeeping'), 500); 
+          }
+          if(key==='savings'){ 
+            setTimeout(()=>askForEmailPDF('savings'), 500); 
+          }
+        }, 200);
+      }
+
+      function handleTextInput(text){
+        const t = text.trim(); if(!t) return;
+        const lower = t.toLowerCase();
+
+        // Greeting detection
+        const greetingPatterns = [
+          /\bhi\b/, /\bhello\b/, /\bhey\b/, /\bhowdy\b/, /\bhiya\b/,
+          /\bgood\s+morning\b/, /\bgood\s+afternoon\b/, /\bgood\s+evening\b/,
+          /\bnamaste\b/, /\bhola\b/
+        ];
+        if (greetingPatterns.some(rx => rx.test(lower))) {
+          addMsg('👋 Hi there! How can I help today? Type "menu" to see options or ask me about deadlines, checklists, TFSA/FHSA/RRSP, benefits, booking, or contact.', 'bot');
+          return;
+        }
+
+        // Email capture
+        if(expectingEmailForPDF){
+          expectingEmailForPDF = false;
+          const email = (t.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/i)||[])[0];
+          if(email){
+            addMsg(`Got it: ${email}. Sending your PDF...`,'bot');
+            sendChecklistEmail(email, currentChecklistRequest);
+            currentChecklistRequest = null;
+          } else {
+            addMsg(`That doesn't look like an email. Please provide a valid email so we can send the PDF.`,'bot');
+            expectingEmailForPDF = true;
+          }
+          return;
+        }
+
+        // GST/HST calculator from free-text
+        if (/(gst|hst)/i.test(lower)) {
+          const freq = (lower.match(/monthly|quarter(?:ly)?|annual(?:ly)?/i) || [])[0] || '';
+          const d = parsePotentialDate(t);
+          if (freq && d) {
+            const due = gstHstDueDate(d, freq);
+            addMsg(`✅ GST/HST (${freq.toLowerCase()}) for period end ${fmt(d)} is due ${fmt(due)}.`, 'bot');
+            addMsg('Need help filing? Call 778-548-3006 or ask for our checklists.', 'bot');
+            return;
+          }
+          addMsg('For GST/HST, please include frequency and period end, e.g., "GST monthly period end Jul 31, 2025".', 'bot');
+          addHTMLMsg(detailedInfo.deadlines, 'bot');
+          return;
+        }
+
+        // PST calculator from free-text
+        if (/\bpst\b/i.test(lower)) {
+          const d = parsePotentialDate(t);
+          if (d) {
+            const due = pstDueDate(d);
+            addMsg(`✅ PST for period end ${fmt(d)} is due ${fmt(due)} (last day of the month after).`, 'bot');
+            return;
+          }
+          addMsg('For PST, include the period end date, e.g., "PST period end Jul 31, 2025".', 'bot');
+          addHTMLMsg(detailedInfo.deadlines, 'bot');
+          return;
+        }
+
+        // Date parsing for corporate deadlines
+        const dateReply = corporateDeadlineReply(t);
+        if(dateReply){ addMsg(dateReply,'bot'); addMsg('Would you like to book a quick consult to plan filings?','bot'); return; }
+
+        // Keyword matching
+        if(lower.includes('menu')){ renderMenu(); return; }
+        if(lower.includes('bookkeep')){ addHTMLMsg(detailedInfo.bookkeeping,'bot'); setTimeout(()=>askForEmailPDF('bookkeeping'), 500); return; }
+        if(lower.includes('personal') && lower.includes('checklist')){ askForEmailPDF('personal'); return; }
+        if(lower.includes('business') && lower.includes('checklist')){ askForEmailPDF('business'); return; }
+        if(lower.includes('self') && lower.includes('checklist')){ askForEmailPDF('self_employed'); return; }
+        if(lower.includes('trust') && lower.includes('checklist')){ askForEmailPDF('family_trust'); return; }
+        if(lower.includes('non') && lower.includes('checklist')){ askForEmailPDF('non_profit'); return; }
+        if(lower.includes('personal') || lower.includes('tax filing') || lower.includes('t1')){ addHTMLMsg(detailedInfo.tax_filing,'bot'); return; }
+        if(lower.includes('checklist') || lower.includes('document')){ renderChecklistMenu(); return; }
+        if(lower.includes('deadline') || lower.includes('t2') || lower.includes('gst') || lower.includes('hst')){ addHTMLMsg(detailedInfo.deadlines,'bot'); return; }
+        if(lower.includes('benefit') || lower.includes('credit')){ addHTMLMsg(detailedInfo.benefits,'bot'); return; }
+        if(lower.includes('tfsa') || lower.includes('fhsa') || lower.includes('rrsp')){ addHTMLMsg(detailedInfo.savings,'bot'); setTimeout(()=>askForEmailPDF('savings'), 500); return; }
+        if(lower.includes('appoint') || lower.includes('book')){ addHTMLMsg(detailedInfo.appointment,'bot'); return; }
+        if(lower.includes('contact') || lower.includes('phone') || lower.includes('email')){ addHTMLMsg(detailedInfo.contact,'bot'); return; }
+        if(lower.includes('pdf')){ renderChecklistMenu(); return; }
+
+        // Default response
+        addMsg('Happy to help! Type "menu" to see options or ask me about deadlines, document checklists, TFSA/FHSA/RRSP, benefits, booking, or contact.', 'bot');
+      }
+
+      // Events
+      function send(){
+        const val = input.value.trim(); if(!val) return;
+        addMsg(val,'user'); input.value='';
+        typing(true);
+        setTimeout(()=>{ typing(false); handleTextInput(val); }, 400 + Math.random()*350);
+      }
+      fab.addEventListener('click', ()=>{ isOpen ? closeChat() : openChat(); });
+      teaser.addEventListener('click', openChat);
+      closeBtn.addEventListener('click', closeChat);
+      menuBtn.addEventListener('click', renderMenu);
+      sendBtn.addEventListener('click', send);
+      input.addEventListener('keydown', (e)=>{ if(e.key==='Enter'){ send(); } });
+
+      // Init — attention logic
+      function firstOpenIfNeeded(){
+        const seen = Number(localStorage.getItem('gopi_chat_seen')||0);
+        const sevenDays = 7*24*60*60*1000;
+        if(!seen || (Date.now()-seen)>sevenDays){
+          openChat();
+          renderMenu();
+        } else {
+          setTimeout(showTeaser, 4500);
+          setTimeout(()=>{ fab.classList.add('gopi-pulse'); badge.style.display='inline-block'; }, 6500);
+        }
+      }
+
+      renderMenu();
+      firstOpenIfNeeded();
+    })();
+    </script>
+	</body>
+</html>
