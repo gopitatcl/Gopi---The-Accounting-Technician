@@ -1,60 +1,49 @@
-# Gopi---The-Accounting-Technician
-Official repository for Gopi The Accounting Technician Ltd (gopiaccountant.com). We provide professional accounting, bookkeeping, payroll, tax filing, corporate &amp; individual tax returns, GST/HST, financial reporting, tax planning, business registration, and advisory services in Canada.
-# Gopi The Accounting Technician Ltd
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gopi Accountant | Bookkeeping & Tax Services</title>
+  <meta name="description" content="Expert bookkeeping, payroll, and tax services — Abbotsford & all across Canada. CPB Canada certified. Remote & local support." />
+  
+  <!-- SEO Open Graph -->
+  <meta property="og:title" content="Gopi Accountant | Bookkeeping & Tax Services Canada" />
+  <meta property="og:description" content="Bookkeeping, payroll, corporate and personal tax services. Serving Abbotsford & clients across Canada online." />
+  <meta property="og:type" content="website" />
 
-![Logo](https://your-logo-link-here)  
-*(Replace with actual logo image URL from your repo or website)*  
+  <!-- Styles -->
+  <link rel="stylesheet" href="./assets/style.css" />
+</head>
+<body>
+  <header>
+    <h1>👋 Welcome to Gopi – The Accounting Technician Ltd</h1>
+    <p>Helping small businesses, self‑employed, and individuals in Abbotsford & across Canada.</p>
+  </header>
 
----
+  <main>
+    <section>
+      <h2>📊 Services</h2>
+      <ul>
+        <li>Bookkeeping & GST/HST filings</li>
+        <li>Payroll & T4s</li>
+        <li>Corporate & Personal Tax Filing</li>
+        <li>CRA Audit Support</li>
+      </ul>
+    </section>
 
-## 🌐 Website  
-[gopiaccountant.com](https://gopiaccountant.com)
+    <section>
+      <h2>💬 Chat With Us</h2>
+      <div id="gopi-chatbot-root"></div>
+      <!-- Chatbot will be injected via JS -->
+    </section>
+  </main>
 
----
+  <footer>
+    <p>📍 Abbotsford, BC — Serving Clients Across Canada | ☎ 778‑548‑3006 | ✉ accounting@gopiaccountant.com</p>
+  </footer>
 
-## 📌 About Us  
-**Gopi The Accounting Technician Ltd** is a professional accounting and tax services firm based in Canada.  
-We help individuals and businesses stay compliant, save on taxes, and plan for growth with reliable financial solutions.  
+  <!-- JavaScript -->
+  <script src="./assets/chatbot.js"></script>
+</body>
 
----
-
-## 📊 Services We Offer  
-- ✅ Accounting & Bookkeeping  
-- ✅ Corporate & Individual Tax Returns  
-- ✅ Payroll Processing  
-- ✅ GST/HST Returns & Refunds  
-- ✅ Financial Reporting & Analysis  
-- ✅ Tax Planning & Advisory  
-- ✅ Business Projections & Planning  
-- ✅ Business Registration  
-
----
-
-## 📅 Deadlines & Compliance  
-- Personal Tax Filing Deadlines  
-- Small Business T4 Filing Deadlines  
-- GST/HST Filing & Refund Eligibility  
-- Corporate Year-End Filing Guidance  
-
----
-
-## 📞 Contact Us  
-
-**Phone:** 778-548-3006  
-**Email:** [accounting@gopiaccountant.com](mailto:accounting@gopiaccountant.com)  
-**Website:** [gopiaccountant.com](https://gopiaccountant.com)  
-
----
-
-## 📢 Certifications  
-- CPB Canada – Certified Professional Bookkeeper  
-- QuickBooks Advanced Online ProAdvisor  
-
----
-
-## 📦 Repository Purpose  
-This repository hosts the source code and content for **[gopiaccountant.com](https://gopiaccountant.com)**, ensuring version control, transparency, and continuous improvements to our online presence.  
-
----
-
-© 2025 Gopi The Accounting Technician Ltd. All rights reserved.
+</html>
